@@ -1,0 +1,230 @@
+@media screen and (max-width: 414px) {
+    .section-1 {
+        height: 794px;
+    }
+
+    .logo {
+        margin-right: 0;
+    }
+
+    .section-1 .header .item {
+        display: none;
+    }
+
+    .section-1 .header .input {
+        display: none;
+    }
+
+    .section-1 .header .btn1 {
+        display: none;
+    }
+
+    .section-1 .header {
+        padding: 15px 30px;
+        justify-content: space-between;
+    }
+
+    .section-1 .header .task {
+        cursor: pointer;
+        display: inline-block;
+        font-size: 32px;
+        color: #00171F;
+    }
+
+    .section-1 .body {
+        flex-wrap: wrap;
+    }
+
+    .section-1 .body .left {
+        width: 100vw;
+        margin: 32px 30px 25px 30px;
+    }
+
+    .section-1 .squa2 {
+        top: 100px;
+        left: 20px;
+    }
+
+    .section-1 .squa3 {
+        left: -270px;
+    }
+
+    .section-1 .squa4 {
+        top: 568px;
+        left: 20px;
+    }
+
+    .section-1 .squa5 {
+        top: 528px;
+        left: 50px;
+    }
+
+    .section-1 .squa6 {
+        left: 370px;
+    }
+
+    .section-1 .squa7 {
+        left: 330px;
+    }
+
+    .section-1 .squa8 {
+        left: 330px;
+    }
+
+    .title_1 {
+        font-size: 46px;
+    }
+
+    .title_2 {
+        font-size: 28px;
+        margin-bottom: 12px;
+    }
+
+    .desc_common {
+        font-size: 12px;
+    }
+
+    .btn,
+    .btn1 {
+        padding: 15px;
+    }
+
+    img {
+        height: 386px;
+        width: 414px;
+        margin-left: 0px;
+    }
+
+    .section-2 .header .right {
+        display: none;
+    }
+
+    .right_bottom {
+        width: 100%;
+        margin-top: 30px;
+        display: inline-block;
+    }
+
+    .section-2 .container {
+        padding: 40px 16px;
+    }
+
+    .section-2 .header .left .left_top {
+        font-size: 14px;
+    }
+
+    .section-2 .header .left .left_bottom {
+        font-size: 20px;
+    }
+
+    .section-2 .body .item {
+        width: 44%;
+    }
+
+    .section-2 .body .item .content .title {
+        font-size: 14px;
+    }
+
+    .section-2 .body .item.w30 {
+        width: 100%;
+    }
+
+    .section-2 .body_2 {
+        height: 700px;
+    }
+
+    .section-2 .body_2 .content {
+        flex-wrap: wrap;
+    }
+
+    .section-2 .body_2 .content .left img {
+        position: absolute;
+        bottom: -320px;
+        left: -60px;
+    }
+
+    .section-2 .body_2 .content .right {
+        position: relative;
+        width: 100%;
+        z-index: 5;
+        padding: 32px 20px;
+    }
+
+    .section-2 .body_2 .content .right .title .title_1 {
+        text-align: center;
+        font-size: 36px;
+    }
+
+    .section-2 .body_2 .content .right .title .title_2 {
+        font-size: 24px;
+        text-align: center;
+    }
+
+    .section-2 .body_2 .content .right .desc_common {
+        text-align: center;
+        font-size: 12px;
+    }
+
+    .section-2 .body_2 .squa1 {
+        top: 600px;
+    }
+
+    .section-2 .body_2 .squa2 {
+        left: -250px;
+        top: -400px;
+    }
+
+    .section-3 .container {
+        padding: 40px 16px;
+    }
+
+    .section-3 .box {
+        padding: 16px;
+        flex-wrap: wrap;
+    }
+
+    .section-3 .box .left {
+        width: 100%;
+        margin-bottom: 16px;
+    }
+
+    .section-3 .box .left .item {
+        font-size: 19px;
+    }
+
+    .section-3 .box .right {
+        flex-wrap: wrap;
+        width: 100%;
+    }
+
+    .section-3 .box .right .left_r {
+        width: 100%;
+        margin-bottom: 12px;
+    }
+
+    .section-3 .box .right .right_btn {
+        width: 100%;
+        text-align: center;
+    }
+
+    .section-3 .taskbar {
+        flex-wrap: wrap;
+    }
+
+    .section-3 .taskbar .left {
+        margin-bottom: 20px;
+    }
+
+    .section-3 .taskbar .left .item {
+        font-size: 13px;
+        margin-right: 40px;
+    }
+
+    .section-3 .taskbar .right {
+        margin-left: 35px;
+    }
+
+    .section-3 .taskbar .right .item {
+        font-size: 20px
+    }
+}
