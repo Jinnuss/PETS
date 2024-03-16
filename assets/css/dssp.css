@@ -41,6 +41,10 @@ body {
     text-align: center;
 }
 
+.top_lr {
+    display: none;
+}
+
 .section-1 .header .item {
     margin-top: 15px;
     cursor: pointer;
@@ -196,6 +200,7 @@ body {
 
 .section-2 .body_2 .content .right .desc_common {
     text-align: end;
+    margin-top: 8px;
 }
 
 .section-2 .body_2 .content .right .btn_right {
@@ -218,6 +223,7 @@ body {
 }
 
 .section-3 .top {
+    cursor: pointer;
     margin-bottom: 14px;
     font-size: 24px;
     font-weight: 700;
@@ -369,6 +375,7 @@ hr {
 }
 
 .section-4 .box .right .right_btn {
+    cursor: pointer;
     padding: 12px 28px;
     background: #003459;
     border-radius: 8px;
@@ -393,6 +400,7 @@ hr {
 }
 
 .section-4 .taskbar .left .item {
+    cursor: pointer;
     font-size: 16px;
     font-weight: 500;
     line-height: 24px;
@@ -401,6 +409,7 @@ hr {
 }
 
 .section-4 .taskbar .right .item {
+    cursor: pointer;
     font-size: 24px;
     color: #00171F;
     margin-left: 40px;
